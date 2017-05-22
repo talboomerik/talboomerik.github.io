@@ -5834,6 +5834,9 @@ button[type="submit"] .loading {
   width: 255px;
   height: 255px;
 }
+.sponsor:not(.inline):hover {
+  border: 2px solid #fe4918;
+}
 .sponsor.inline {
   vertical-align: middle;
 }
