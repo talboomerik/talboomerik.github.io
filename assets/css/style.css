@@ -2967,7 +2967,10 @@ input[type=password].error,
   background-color: #187ffe;
 }
 
-.base-clr-txt,
+.base-clr-txt {
+  color: #181cfe;
+}
+
 .highlight,
 a,
 a:hover,
